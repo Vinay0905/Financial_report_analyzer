@@ -21,7 +21,7 @@ The system uses LangGraph to coordinate a team of specialized agents, each respo
 ## Usage
 Run the application: `python backend/main.py`
 
-
+```
 financial_report_analyzer/
 ├── backend/
 │   ├── agents/
@@ -61,3 +61,4 @@ financial_report_analyzer/
 │   └── test_utils/
 ├── README.md
 └── requirements.txt
+```
