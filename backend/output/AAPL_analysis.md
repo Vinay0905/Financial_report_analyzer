@@ -1,13 +1,15 @@
 # Financial Analysis Report for AAPL
 
 ## Executive Summary
-Executive Summary:
+Executive Summary of Financial Analysis for Apple Inc. (AAPL): 
 
-Apple Inc., a leading multinational technology company, reported robust financial performance with a revenue of $94.036 billion and a net income of $84.544 billion. The company has $3 billion in assets and $265.665 billion in liabilities. Apple's net margin stands at 0.899, reflecting strong profitability.
+Apple Inc. continues its strong financial performance with a revenue of $94.04 billion and a net income of $84.54 billion. The company's assets stand at $3.0 billion with liabilities at $265.67 billion. Furthermore, Apple has a high net margin of approximately 89.9%.
 
-Market data reveals Apple's market capitalization of $3.829 trillion and impressive financial metrics such as a PE ratio of 39.21, price-to-sales ratio of 9.37, and a forward PE of 32.05. Analysts have set a target price of $246.22 for Apple's stock.
+In terms of market data, Apple is a leading American multinational technology company known for its innovative products and services, including the iPhone, iPad, and Mac. With a market capitalization of $3.83 trillion, Apple is the world's largest technology company by revenue and the most valuable publicly traded company globally. As of the latest quarter, the company's revenue is $408.62 billion, with an EBITDA of $141.70 billion.
 
-The sentiment analysis of news articles related to Apple indicates a largely positive sentiment among investors and analysts, with 84% positive, 6% negative, and 10% neutral sentiment. Positive headlines include Apple's growth prospects, AI advancements, and analyst ratings, while negative sentiment is tied to concerns such as workplace discrimination. Overall, the sentiment analysis suggests a generally optimistic outlook on Apple's future performance and stock prospects.
+The sentiment analysis reveals a positive sentiment of 84% in recent news articles about Apple, indicating overall investor confidence in the company. However, there are a few negative headlines regarding iPhone trends, workplace discrimination lawsuits, and bear case theories.
+
+Overall, Apple Inc. remains a strong player in the technology industry, backed by robust financials and positive market sentiment.
 
 ## Financials
 - **Company Name**: Apple Inc.
@@ -79,7 +81,7 @@ The sentiment analysis of news articles related to Apple indicates a largely pos
 
 ## Sentiment Analysis
 - **Total Articles Analyzed**: 50
-- **Confidence Score**: 0.341
+- **Confidence Score**: 0.34
 
 | Sentiment | Count | Percent | Sample Headlines |
 |-----------|-------|---------|-----------------|
