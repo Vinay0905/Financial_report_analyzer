@@ -1,15 +1,9 @@
 # Financial Analysis Report for AAPL
 
 ## Executive Summary
-Executive Summary of Financial Analysis for Apple Inc. (AAPL): 
+Executive Summary:
 
-Apple Inc. continues its strong financial performance with a revenue of $94.04 billion and a net income of $84.54 billion. The company's assets stand at $3.0 billion with liabilities at $265.67 billion. Furthermore, Apple has a high net margin of approximately 89.9%.
-
-In terms of market data, Apple is a leading American multinational technology company known for its innovative products and services, including the iPhone, iPad, and Mac. With a market capitalization of $3.83 trillion, Apple is the world's largest technology company by revenue and the most valuable publicly traded company globally. As of the latest quarter, the company's revenue is $408.62 billion, with an EBITDA of $141.70 billion.
-
-The sentiment analysis reveals a positive sentiment of 84% in recent news articles about Apple, indicating overall investor confidence in the company. However, there are a few negative headlines regarding iPhone trends, workplace discrimination lawsuits, and bear case theories.
-
-Overall, Apple Inc. remains a strong player in the technology industry, backed by robust financials and positive market sentiment.
+Apple Inc., a leading American multinational technology company, reported impressive financial performance with a revenue of $94.036 billion and a net income of $84.544 billion. The company's strong financial position is reflected in its positive net margin of 89.91%. Additionally, Apple Inc. is recognized for its innovative consumer electronics, software, and online services, contributing to its market capitalization of $3.829 trillion. Despite some negative sentiment in the media relating to iPhone trends, the majority of news articles reflect a positive sentiment towards the company's growth potential. Furthermore, analysts have shown confidence in Apple Inc. with strong buy and buy ratings, emphasizing its position as a key player in the technology industry. Overall, Apple Inc. continues to drive significant advancements in technology and remains a top performer in the market.
 
 ## Financials
 - **Company Name**: Apple Inc.
@@ -81,7 +75,7 @@ Overall, Apple Inc. remains a strong player in the technology industry, backed b
 
 ## Sentiment Analysis
 - **Total Articles Analyzed**: 50
-- **Confidence Score**: 0.34
+- **Confidence Score**: 0.331
 
 | Sentiment | Count | Percent | Sample Headlines |
 |-----------|-------|---------|-----------------|
