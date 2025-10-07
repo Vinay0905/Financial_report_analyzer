@@ -2,11 +2,12 @@
 
 ## Executive Summary
 Executive Summary:
-Apple Inc., a leading American technology company, reported strong financial performance with a revenue of $94.04 billion and net income of $84.54 billion. The company has total assets of $3.0 billion and liabilities of $265.67 billion. With a high net margin of 89.91%, Apple continues to be a key player in the tech industry.
 
-Market data reveals that Apple Inc. is the most valuable publicly traded company globally, with a market capitalization of $3.83 trillion. The company's innovative products such as iPhone, iPad, and Mac have contributed to its success. Analysts have a positive outlook on Apple, with several recommending a buy rating and target prices ranging from $206 to $310.
+Apple Inc., a leading multinational technology company, reported robust financial performance with a revenue of $94.036 billion and a net income of $84.544 billion. The company has $3 billion in assets and $265.665 billion in liabilities. Apple's net margin stands at 0.899, reflecting strong profitability.
 
-Sentiment analysis of news articles shows a predominance of positive sentiments, highlighting successful product launches and growth prospects for Apple. Overall, the confidence score for sentiment is 29.7%, indicating a favorable outlook on Apple's performance.
+Market data reveals Apple's market capitalization of $3.829 trillion and impressive financial metrics such as a PE ratio of 39.21, price-to-sales ratio of 9.37, and a forward PE of 32.05. Analysts have set a target price of $246.22 for Apple's stock.
+
+The sentiment analysis of news articles related to Apple indicates a largely positive sentiment among investors and analysts, with 84% positive, 6% negative, and 10% neutral sentiment. Positive headlines include Apple's growth prospects, AI advancements, and analyst ratings, while negative sentiment is tied to concerns such as workplace discrimination. Overall, the sentiment analysis suggests a generally optimistic outlook on Apple's future performance and stock prospects.
 
 ## Financials
 - **Company Name**: Apple Inc.
@@ -52,7 +53,7 @@ Sentiment analysis of news articles shows a predominance of positive sentiments,
 - **Dilutedepsttm**: 6.58
 - **Quarterlyearningsgrowthyoy**: 0.121
 - **Quarterlyrevenuegrowthyoy**: 0.096
-- **Analysttargetprice**: 246.23
+- **Analysttargetprice**: 246.22
 - **Analystratingstrongbuy**: 5
 - **Analystratingbuy**: 23
 - **Analystratinghold**: 15
@@ -70,34 +71,34 @@ Sentiment analysis of news articles shows a predominance of positive sentiments,
 - **50Daymovingaverage**: 232.72
 - **200Daymovingaverage**: 222.19
 - **Sharesoutstanding**: 14840390000
-- **Sharesfloat**: 14814419000
+- **Sharesfloat**: 14814271000
 - **Percentinsiders**: 1.970
-- **Percentinstitutions**: 63.625
+- **Percentinstitutions**: 63.630
 - **Dividenddate**: 2025-08-14
 - **Exdividenddate**: 2025-08-11
 
 ## Sentiment Analysis
 - **Total Articles Analyzed**: 50
-- **Confidence Score**: 0.297
+- **Confidence Score**: 0.341
 
 | Sentiment | Count | Percent | Sample Headlines |
 |-----------|-------|---------|-----------------|
-| Positive | 40 | 80.0% | - |
-| Negative | 4 | 8.0% | - |
-| Neutral | 6 | 12.0% | - |
+| Positive | 42 | 84.0% | - |
+| Negative | 3 | 6.0% | - |
+| Neutral | 5 | 10.0% | - |
 
 ### Top Headlines (first 10)
 | Sentiment | Score | Headline |
 |-----------|-------|----------|
 | Negative | -0.25 | [Apple report reveals a worrying iPhone 17 trend](https://www.thestreet.com/technology/apple-report-reveals-a-worrying-iphone-17-trend) |
 | Neutral | +0.07 | [Apple’s $850 Billion Shareholder Bonanza](https://www.forbes.com/sites/greatspeculations/2025/10/01/apples-850-billion-shareholder-bonanza/) |
+| Positive | +0.48 | [Apple Inc. (AAPL) Sued Over Workplace Discrimination](https://finance.yahoo.com/news/apple-inc-aapl-sued-over-064230608.html) |
 | Positive | +0.45 | [As Apple Ditches VR Headsets for Glasses, Can AAPL Stock Close Out 2025 Strong?](https://www.barchart.com/story/news/35198156/as-apple-ditches-vr-headsets-for-glasses-can-aapl-stock-close-out-2025-strong) |
-| Neutral | +0.00 | [Analyst on Apple (AAPL) After iPhone 17 Launch: AI ‘Still a Problem’ But Company Has ‘Shifted the Story’](https://finance.yahoo.com/news/analyst-apple-aapl-iphone-17-130423587.html) |
 | Positive | +0.43 | [BofA Reiterates Apple (AAPL) Buy Rating with $270 Target as Carrier Incentives Drive iPhone 17 Demand](https://finance.yahoo.com/news/bofa-reiterates-apple-aapl-buy-012203329.html) |
 | Negative | -0.11 | [Apple Inc. (AAPL): A Bear Case Theory](https://finance.yahoo.com/news/apple-inc-aapl-bear-case-143700790.html) |
 | Positive | +0.50 | [Apple poised for growth: Seaport Research initiates buy rating with $310 target](https://macdailynews.com/2025/10/01/apple-poised-for-growth-seaport-research-initiates-buy-rating-with-310-target/) |
+| Positive | +0.17 | [Logitech、キーボード＆マウスユーティリティ「Logi Options+ v1.95」でMX Master 4シリーズをサポート。](https://applech2.com/archives/20251004-logi-options-support-mx-master-4.html) |
 | Positive | +0.40 | [Apple Developing ‘Veritas’ Internal AI Chatbot to Test Revamped Siri, Underlying LLM System](https://finance.yahoo.com/news/apple-developing-veritas-internal-ai-061626481.html) |
-| Negative | -0.10 | [Apple Momentum Slows as Jefferies Reiterates Hold at $206](https://finance.yahoo.com/news/apple-momentum-slows-jefferies-reiterates-170223710.html) |
-| Positive | +0.17 | [Apple、古いMacやiPhone/iPad向けに1件の脆弱性を修正した「macOS Sequoia 15.7.1」、「macOS Sonoma 14.8.1」、「iOS/iPadOS 18.7.1」アップデートをリリース。](https://applech2.com/archives/20250930-security-update-29-sep-2025.html) |
+| Neutral | +0.02 | [Apple analyst unveils dire forecast after iPhone 17 launch](https://www.thestreet.com/technology/apple-analyst-has-a-dire-short-term-forecast-for-the-company) |
 
 
