@@ -1,7 +1,7 @@
 from fastapi import FastAPI, UploadFile, File
 from pydantic import BaseModel
-from graph_builder import build_graph
-from agents.supervisor_agent import SupervisorAgent
+from .graph.graph_builder import build_graph
+from .agents.supervisor_agent import SupervisorAgent
 
 app = FastAPI()
 workflow = build_graph()

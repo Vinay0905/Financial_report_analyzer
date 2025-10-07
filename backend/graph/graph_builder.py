@@ -1,12 +1,12 @@
 from langgraph.graph import StateGraph, START, END
 from typing import TypedDict
 
-from agents.data_extraction_agent import DataExtractionAgent
-from agents.finance_agent import FinanceAgent
-from agents.math_agent import MathAgent
-from agents.market_agent import MarketAgent
-from agents.sentiment_agent import SentimentAgent
-from agents.supervisor_agent import SupervisorAgent
+from ..agents.data_extraction_agent import DataExtractionAgent
+from ..agents.finance_agent import FinanceAgent
+from ..agents.math_agent import MathAgent
+from ..agents.market_agent import MarketAgent
+from ..agents.sentiment_agent import SentimentAgent
+from ..agents.supervisor_agent import SupervisorAgent
 
 class FinanceState(TypedDict):
     file_path: str
